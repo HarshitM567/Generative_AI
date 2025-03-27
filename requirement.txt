@@ -7,3 +7,9 @@ flask
 memory-profiler
 streamlit
 scikit-learn
+tensorflow
+scikit-learn
+tensorboard
+streamlit
+keras
+scikeras
