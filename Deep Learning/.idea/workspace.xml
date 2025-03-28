@@ -4,13 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c40c049-9496-4a5b-8562-2dc07cf3f9bb" name="Changes" comment="">
+    <list default="true" id="7c40c049-9496-4a5b-8562-2dc07cf3f9bb" name="Changes" comment="IMDB Movie Review Project">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -66,10 +75,58 @@
       <workItem from="1741087843671" duration="13000" />
       <workItem from="1742386177477" duration="903000" />
       <workItem from="1742401942412" duration="2359000" />
+      <workItem from="1743139106327" duration="2852000" />
+      <workItem from="1743149265971" duration="4302000" />
     </task>
+    <task id="LOCAL-00001" summary="Deep Learning">
+      <option name="closed" value="true" />
+      <created>1743139594680</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743139594680</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deep Learning">
+      <option name="closed" value="true" />
+      <created>1743139644892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743139644892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Deep Learning">
+      <option name="closed" value="true" />
+      <created>1743139657855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743139657855</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Deep Learning">
+      <option name="closed" value="true" />
+      <created>1743139699138</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743139699138</updated>
+    </task>
+    <task id="LOCAL-00005" summary="IMDB Movie Review Project">
+      <option name="closed" value="true" />
+      <created>1743153604595</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743153604595</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deep Learning" />
+    <MESSAGE value="IMDB Movie Review Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="IMDB Movie Review Project" />
   </component>
 </project>
