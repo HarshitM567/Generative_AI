@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c40c049-9496-4a5b-8562-2dc07cf3f9bb" name="Changes" comment="IMDB Movie Review Project">
+    <list default="true" id="7c40c049-9496-4a5b-8562-2dc07cf3f9bb" name="Changes" comment="experiments">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01-04-2025_11_53_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01-04-2025_11_53__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMDB Movies Review Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IMDB Movies Review Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/label_encoder_gender.pk" beforeDir="false" afterPath="$PROJECT_DIR$/label_encoder_gender.pk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onehot_encoder_geo.pk" beforeDir="false" afterPath="$PROJECT_DIR$/onehot_encoder_geo.pk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaler.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/scaler.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -45,18 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.send_ai_ml_intern_emails.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +85,9 @@
       <workItem from="1742401942412" duration="2359000" />
       <workItem from="1743139106327" duration="2852000" />
       <workItem from="1743149265971" duration="4921000" />
-      <workItem from="1743484067355" duration="632000" />
+      <workItem from="1743484067355" duration="896000" />
+      <workItem from="1745765965455" duration="592000" />
+      <workItem from="1754584340880" duration="1688000" />
     </task>
     <task id="LOCAL-00001" summary="Deep Learning">
       <option name="closed" value="true" />
@@ -128,7 +137,31 @@
       <option name="project" value="LOCAL" />
       <updated>1743153649076</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="IMDB Movie Review Project">
+      <option name="closed" value="true" />
+      <created>1743488611226</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743488611226</updated>
+    </task>
+    <task id="LOCAL-00008" summary="IMDB Movie Review Project">
+      <option name="closed" value="true" />
+      <created>1743488675320</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743488675320</updated>
+    </task>
+    <task id="LOCAL-00009" summary="experiments">
+      <option name="closed" value="true" />
+      <created>1754584964902</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754584964902</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +170,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Deep Learning" />
     <MESSAGE value="IMDB Movie Review Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="IMDB Movie Review Project" />
+    <MESSAGE value="experiments" />
+    <option name="LAST_COMMIT_MESSAGE" value="experiments" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/experiments_ipynb$send_ai_ml_intern_emails.coverage" NAME="send_ai_ml_intern_emails Coverage Results" MODIFIED="1754649881643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../JobHunt" />
   </component>
 </project>
